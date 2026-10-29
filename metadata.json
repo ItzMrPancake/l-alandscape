@@ -1,0 +1,6 @@
+{
+  "name": "L&A Landscape LLC | Eugene & Springfield Landscaping",
+  "description": "Official website for L&A Landscape LLC serving Eugene & Springfield, OR. Professional landscape maintenance, sod install, property clean up, pressure washing, client gallery, and free estimates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
